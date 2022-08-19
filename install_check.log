@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin Iras-Air.attlocal.net 19.6.0 Darwin Kernel Version 19.6.0: Tue Jun 21 21:18:39 PDT 2022; root:xnu-6153.141.66~1/RELEASE_X86_64 x86_64
+SHELL:	[/bin/bash]
+GIT:	[/usr/local/bin/git] git version 2.33.0
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Jun  6 2022 20:23:58)
+CURL:	[/usr/bin/curl] curl 7.64.1 (x86_64-apple-darwin19.0) libcurl/7.64.1 (SecureTransport) LibreSSL/2.8.3 zlib/1.2.11 nghttp2/1.39.2
+NODE:	[/Users/irachandramouli/.nvm/versions/node/v16.17.0/bin/node] v16.17.0
